@@ -1,6 +1,13 @@
 Serverauditor ssh config utility
 ================================
 
+*NOTE*: This is the quick hack very.
+To install this version, simply run
+
+```
+pip install -e git+https://github.com/hupili/serverauditor-sshconfig@6adf9fbb4b8b07a935e30fc297decaac23c43b4c#egg=Package
+```
+
 
 Installation
 ------------
