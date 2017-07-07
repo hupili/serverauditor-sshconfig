@@ -1,3 +1,12 @@
+20170707
+
+This quick hack repo is dead after the original tool/ service change interface to new https://github.com/Crystalnix/termius-cli
+
+-------
+
+
+
+
 Serverauditor ssh config utility
 ================================
 
